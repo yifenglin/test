@@ -1,0 +1,9 @@
+C:\Users\Ethan\Desktop\串口通讯\串口通讯\obj\Debug\串口通讯.Form1.resources
+C:\Users\Ethan\Desktop\串口通讯\串口通讯\obj\Debug\串口通讯.csproj.GenerateResource.Cache
+C:\Users\Ethan\Desktop\串口通讯\串口通讯\bin\Debug\串口通讯.exe.config
+C:\Users\Ethan\Desktop\串口通讯\串口通讯\bin\Debug\串口通讯.exe
+C:\Users\Ethan\Desktop\串口通讯\串口通讯\bin\Debug\串口通讯.pdb
+C:\Users\Ethan\Desktop\串口通讯\串口通讯\obj\Debug\串口通讯.Properties.Resources.resources
+C:\Users\Ethan\Desktop\串口通讯\串口通讯\obj\Debug\串口通讯.exe
+C:\Users\Ethan\Desktop\串口通讯\串口通讯\obj\Debug\串口通讯.pdb
+C:\Users\Ethan\Desktop\串口通讯\串口通讯\obj\Debug\串口通讯.csprojResolveAssemblyReference.cache
